@@ -11,6 +11,7 @@ gem 'rake'
 gem 'rspec-rails'
 gem 'uglifier'
 gem 'test-unit'
+gem 'factory_girl', github: 'victor95pc/factory_girl'
 
 gem 'activerecord-jdbcsqlite3-adapter', platforms: :jruby
 gem 'jdbc-sqlite3', platforms: :jruby
